@@ -4,7 +4,7 @@ A comprehensive web application for processing and enriching company name data w
 
 ## Demo
 
-- [Watch the demo (MP4)](Demo/demo.mp4)
+- [Watch the demo (MP4)](https://youtu.be/2f_XnpBnjgk)
 
 If the video does not auto-embed in the README preview, click the link to open it in GitHub’s viewer.
 
