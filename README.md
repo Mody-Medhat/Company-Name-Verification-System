@@ -4,13 +4,9 @@ A comprehensive web application for processing and enriching company name data w
 
 ## Demo
 
-```bash
-ffmpeg -i "Demo/CNVS Demo.mkv" -c:v libx264 -crf 23 -preset veryfast -c:a aac -b:a 128k Demo/demo.mp4
-```
-
-Then link it in the README (GitHub will show a player on the file page):
-
 - [Watch the demo (MP4)](Demo/demo.mp4)
+
+If the video does not auto-embed in the README preview, click the link to open it in GitHub’s viewer.
 
 ## Features
 
